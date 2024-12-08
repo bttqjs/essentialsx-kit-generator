@@ -3,7 +3,7 @@
 ## Overview
 The **EssentialsX Kit Generator** is a web-based tool designed to help Minecraft server administrators create kits for EssentialsX by generating easy-to-use YAML configurations. It allows users to customize kit names, cooldowns, and items, which can be easily copied and pasted into their server's `kits.yml` file. The user-friendly interface includes an item grid for quickly selecting items and an output section that displays the generated YAML for easy copying.
 
-
+**Check on GitHub** - https://bttqjs.github.io/essentialsx-kit-generator/
 
 ## Features
 - **Easy-to-use interface:** A simple form for creating kits with fields for the kit name, cooldown time, and items.
